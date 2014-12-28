@@ -1,0 +1,21 @@
+{
+  "name": "freezer-list",
+  "version": "0.1.0",
+  "homepage": "https://github.com/semanio/subzero-inventory-411",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "grunt": "~0.4.5",
+    "html5-boilerplate": "~4.3.0",
+    "jquery": "1.11.0"
+  }
+}
